@@ -1,0 +1,33 @@
+h1 {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-variant-caps: all-petite-caps;
+    font-weight: bold; 
+    font-style: italic;
+}
+p {
+    color:black; 
+    font-size: 14px
+}
+.imgport {
+    float: right;
+}
+ol {
+    color: black;
+    font-size: 13px;
+}
+body {
+    max-width: 950px;
+    width: 100%;
+    margin: auto;
+    background-color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box1 { 
+    padding-left: 40px;
+}
+
+.box2 {
+    line-height: 10px
+}
